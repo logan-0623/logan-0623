@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"> <img src="[https://metrics.lecoq.io/logan-0623?template=classic&config.timezone=Asia%2FShanghai]"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/logan-0623?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 
 <!--
