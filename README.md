@@ -1,11 +1,3 @@
-Here’s a cleaner, more consistent version of your README snippet. I focused on:
-
-* **Simpler markup:** switched to one‑line `<p align="center">` wrappers instead of nested `<div>`s.
-* **Accessibility:** added descriptive `alt` text for each image.
-* **Grammar:** fixed the typo in “deap learning ➜ deep learning.”
-* **Whitespace:** added a horizontal rule to separate the header section from the text.
-
-```markdown
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
@@ -32,6 +24,3 @@ Here’s a cleaner, more consistent version of your README snippet. I focused o
 ---
 
 🌱 I’m currently learning **basic deep‑learning methods**.
-```
-
-Copy‑paste this over your current block and you should see the same visuals with neater markup and wording. If you’d like more tweaks—colors, additional badges, or new sections (e.g., tech stack, socials)—let me know!
