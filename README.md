@@ -14,6 +14,11 @@
   />
 </p>
 
+#### 🐍 contributions
+![](https://raw.githubusercontent.com/logan-0623/logan-0623/output/github-contribution-grid-snake.svg)
+</td>
+<td valign="top"  width="50%">
+
 ---
 
 🌱 I’m currently learning **basic deep‑learning methods**.
