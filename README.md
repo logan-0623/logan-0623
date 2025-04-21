@@ -1,11 +1,12 @@
-<h3 align="center">Hi there 👋</h3>
+<h2 align="left">Hi 👋! My name is Logan Luo and I'm a CS student, from University of Liverpool！</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=logan-0623&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"
-    alt="Most‑used programming languages"
-  />
-</p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=logan-0623&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <p align="center">
   <img
@@ -14,10 +15,13 @@
   />
 </p>
 
-#### 🐍 contributions
-![](https://raw.githubusercontent.com/logan-0623/logan-0623/output/github-contribution-grid-snake.svg)
-</td>
-<td valign="top"  width="50%">
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/logan-0623/logan-0623/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
