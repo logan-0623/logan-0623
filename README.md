@@ -15,12 +15,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/logan-0623/logan-0623/output/snake.svg" alt="Snake animation" />
+
 
 ###
 ---
 
 I am a Computing Science student at the University of Liverpool and Xi'an Jiaotong-Liverpool University, with research interests in Machine Learning, Deep Learning, and Medical Image Analysis.
-
 
 My personal website: https://logan-0623.github.io/
