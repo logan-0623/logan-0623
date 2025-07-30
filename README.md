@@ -3,7 +3,7 @@
 
 I am a Computing Science student at the University of Liverpool and Xi'an Jiaotong-Liverpool University, with research interests in **Machine Learning**, **Deep Learning**, and **Medical Image Analysis**.
 
-🔬 **Current Research:** Multi-modal learning and medical image analysis at University of Exeter  
+🔬 **Current Research:** Multi-modal learning and medical image analysis 
 📚 **Publications:** AAAI 2025, ICANN 2024, ICPR 2024, BMC Medical Informatics  
 🌐 **Personal Website:** [logan-0623.github.io](https://logan-0623.github.io/)
 
