@@ -1,4 +1,4 @@
-markdown path=README.md mode=EDIT
+
 <h2 align="left">Hi 👋! My name is Zihong (Logan) Luo</h2>
 
 I am a Computing Science student at the University of Liverpool and Xi'an Jiaotong-Liverpool University, with research interests in **Machine Learning**, **Deep Learning**, and **Medical Image Analysis**.
