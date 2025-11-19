@@ -1,9 +1,13 @@
 
-<h2 align="left">Hi 👋! My name is Zihong (Logan) Luo</h2>
+<h2 align="left">Hi 👋! I'm Zihong (Logan) Luo</h2>
 
-I am a Computing Science student at the University of Liverpool and Xi'an Jiaotong-Liverpool University, with research interests in **Machine Learning**, **Deep Learning**, and **Medical Image Analysis**.
+I am an undergraduate researcher at the **University of Liverpool** and **XJTLU**, bridging the gap between **Multimodal Perception** and **Robotic Action**.
 
-🔬 **Current Research:** Multi-modal learning and medical image analysis 
+While building a strong foundation in representation learning (with publications in **AAAI, ICPR, BIBM**), my primary focus has shifted toward **Embodied Intelligence** and **Generalizable Manipulation**.
+
+🤖 **Research Interests:** Embodied AI, Vision-Language-Action (VLA) Models, Sim-to-Real Transfer.
+
+🔭 **Current Work:** Developing gripper-aware VLA policies at **SmartLab**; Exploring robust control for manipulation.
 
 📚 **Publications:** AAAI 2025, ICANN 2024, ICPR 2024, BMC Medical Informatics  
 
