@@ -1,17 +1,17 @@
+<h2 align="left">Hi 👋, I'm Zihong (Logan) Luo</h2>
 
-<h2 align="left">Hi 👋! I'm Zihong (Logan) Luo</h2>
+I am a Research Assistant at <a href="https://smartlab.csc.liv.ac.uk/"><strong>SmartLab</strong></a> and a Computing Science undergraduate (UoL & XJTLU), bridging the gap between **Multimodal Perception** and **Robotic Action**.
 
-I am an undergraduate researcher at the **University of Liverpool** and **XJTLU**, bridging the gap between **Multimodal Perception** and **Robotic Action**.
-
-While building a strong foundation in representation learning (with publications in **AAAI, ICPR, BIBM**), my primary focus has shifted toward **Embodied Intelligence** and **Generalizable Manipulation**.
+Moving from static image analysis to **Embodied Intelligence**, I am currently building generalizable robot agents that can perceive, reason, and manipulate in the physical world.
 
 🤖 **Research Interests:** Embodied AI, Vision-Language-Action (VLA) Models, Sim-to-Real Transfer.
+🔭 **Current Work:** Developing gripper-aware VLA policies for adaptive manipulation at <a href="https://smartlab.csc.liv.ac.uk/"><strong>SmartLab</strong></a>.
+📚 **Publications:** AAAI 2025, ICANN 2024, ICPR 2024.
 
-🔭 **Current Work:** Developing gripper-aware VLA policies at **SmartLab**; Exploring robust control for manipulation.
+<br>
 
-📚 **Publications:** AAAI 2025, ICANN 2024, ICPR 2024, BMC Medical Informatics  
-
-🌐 **Personal Website:** [logan-0623.github.io](https://logan-0623.github.io/)
+[<img src="https://img.shields.io/badge/Email-Z.Luo21%40student.liverpool.ac.uk-red?style=flat-square&logo=gmail">](mailto:Z.Luo21@student.liverpool.ac.uk) 
+[<img src="https://img.shields.io/badge/Google_Scholar-Zihong_Luo-blue?style=flat-square&logo=google-scholar">](https://scholar.google.com/citations?user=8SLtiQgAAAAJ&hl=zh-CN&authuser=1)
 
 ## 🎓 Recent Achievements
 - **[AAAI 2025]** Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading
