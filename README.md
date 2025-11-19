@@ -5,7 +5,9 @@ I am a Research Assistant at <a href="https://smartlab.csc.liv.ac.uk/"><strong>S
 Moving from static image analysis to **Embodied Intelligence**, I am currently building generalizable robot agents that can perceive, reason, and manipulate in the physical world.
 
 🤖 **Research Interests:** Embodied AI, Vision-Language-Action (VLA) Models, Sim-to-Real Transfer.
-🔭 **Current Work:** Developing gripper-aware VLA policies for adaptive manipulation at <a href="https://smartlab.csc.liv.ac.uk/"><strong>SmartLab</strong></a>.
+
+🔭 **Current Work:** Developing gripper-aware VLA policies for adaptive manipulation.
+
 📚 **Publications:** AAAI 2025, ICANN 2024, ICPR 2024.
 
 <br>
