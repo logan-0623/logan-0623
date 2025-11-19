@@ -9,7 +9,6 @@ Moving from static image analysis to **Embodied Intelligence**, I am currently b
 🔭 **Current Work:** Developing gripper-aware VLA policies for adaptive manipulation.
 
 📚 **Publications:** AAAI 2025, ICANN 2024, ICPR 2024.
-
 <br>
 
 [<img src="https://img.shields.io/badge/Email-Z.Luo21%40student.liverpool.ac.uk-red?style=flat-square&logo=gmail">](mailto:Z.Luo21@student.liverpool.ac.uk) 
