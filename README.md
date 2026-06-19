@@ -30,7 +30,6 @@ I am interested in applying AI and data analysis methods to practical areas such
 
 [![Academic Email](https://img.shields.io/badge/Academic_Email-D14836?logo=gmail\&logoColor=white)](mailto:Z.Luo21@student.liverpool.ac.uk)
 [![Personal Email](https://img.shields.io/badge/Personal_Email-D14836?logo=gmail\&logoColor=white)](mailto:loganluo0623@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=8SLtiQgAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/%E6%A2%93%E9%B8%BF-%E7%BD%97-a1530933a/)
 
 ---
