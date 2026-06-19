@@ -5,25 +5,13 @@ I am an incoming **Master's student in Computer Engineering** at Carnegie Mellon
 My academic background is in **machine learning**, **computer vision**, and **medical image analysis**.
 I am interested in applying AI and data analysis methods to practical areas such as healthcare, education, visual understanding, and general-purpose software systems.
 
-🔭 **Current Work:** Final Year Project on image-based object understanding using machine learning and computer vision
-📚 **Academic Background:** Computer Science, Machine Learning, Computer Vision, Medical AI
+🔭 **Current Work:** Final Year Project on image-based object understanding using machine learning and computer vision \
+📚 **Academic Background:** Computer Science, Machine Learning, Computer Vision, Medical AI \ 
 🎯 **Future Direction:** AI applications in healthcare, education, and software development
 
 <br>
 
 [<img src="https://img.shields.io/badge/Academic_Email-Z.Luo21%40student.liverpool.ac.uk-red?style=flat-square&logo=gmail">](mailto:Z.Luo21@student.liverpool.ac.uk)
-[<img src="https://img.shields.io/badge/Google_Scholar-Zihong_Luo-blue?style=flat-square&logo=google-scholar">](https://scholar.google.com/citations?user=8SLtiQgAAAAJ)
-
----
-
-## 🎓 Selected Publications
-
-* **[AAAI 2025]** *Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading*
-* **[ICANN 2024]** *ARIF: Adaptive Attention-Based Cross-Modal Representation Integration Framework*
-* **[ICPR 2024]** *MTSA-SNN: Multi-modal Time Series Analysis Model Based on Spiking Neural Network*
-* **[BMC Medical Informatics]** *Interpretable Machine Learning Models for Diabetic Complications Detection*
-
----
 
 ## 📌 Academic Experience
 
@@ -66,6 +54,4 @@ I am interested in applying AI and data analysis methods to practical areas such
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
 
----
 
-💡 *Open to academic discussion and collaboration in machine learning, computer vision, medical AI, and practical AI applications.*
