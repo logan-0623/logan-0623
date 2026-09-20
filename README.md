@@ -5,10 +5,6 @@
   Vision-Language-Action Models · Robotic Manipulation · Multimodal Learning
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=logan-0623.logan-0623" alt="Profile visitors" />
-</div>
-
 I study how multimodal models can connect visual observations, language instructions, and physical actions. My current work focuses on adaptable robot policies, especially how policies can account for different grippers, tasks, and real-world execution constraints.
 
 My earlier research includes medical image segmentation, ophthalmic disease grading, and multimodal representation learning.
