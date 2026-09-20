@@ -5,6 +5,10 @@
   Vision-Language-Action Models · Robotic Manipulation · Multimodal Learning
 </p>
 
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=logan-0623.logan-0623" alt="Profile visitors" />
+</div>
+
 I study how multimodal models can connect visual observations, language instructions, and physical actions. My current work focuses on adaptable robot policies, especially how policies can account for different grippers, tasks, and real-world execution constraints.
 
 My earlier research includes medical image segmentation, ophthalmic disease grading, and multimodal representation learning.
@@ -30,11 +34,34 @@ My earlier research includes medical image segmentation, ophthalmic disease grad
 - **University of Liverpool** — B.Sc. in Computing Science, First Class Honours
 - **Smart Robotic Lab** — Research Assistant working on VLA models and robotic manipulation
 
-## Technical skills
+## Tech stack
 
-**Programming:** Python, Java, SQL  
-**Machine learning:** PyTorch, OpenCV, scikit-learn, NumPy, Pandas  
-**Tools:** Git, Linux, LaTeX, Jupyter
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+**Machine learning & computer vision**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+</p>
+
+**Tools & systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
 
 ## Contact
 
